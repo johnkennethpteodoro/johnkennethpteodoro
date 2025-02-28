@@ -1,4 +1,4 @@
-# Hi there I'm Chods 👋
+# Hi there I'm Kenneth 👋
 
 I am a highly driven Frontend Developer with over a year of hands-on experience crafting intuitive, high-performance user interfaces for websites and applications. With a strong focus on delivering seamless user experiences, my expertise includes:
 
