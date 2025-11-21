@@ -1,6 +1,6 @@
 # Hi there I'm Kenneth 👋
 
-I am a highly driven Frontend Developer with over a year of hands-on experience crafting intuitive, high-performance user interfaces for websites and applications. With a strong focus on delivering seamless user experiences, my expertise includes:
+Im a software engineer specializing in frontend development with 2+ years of experience building web applications. My main work includes developing features, improving user interfaces, testing, and fixing bugs. my expertise includes:
 
 - **JavaScript**
 - **TypeScript**
